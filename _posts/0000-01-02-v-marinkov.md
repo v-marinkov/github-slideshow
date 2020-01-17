@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
 title: "Welcome to our updated second slide!"
 ---
 I have successfully added a second slide!
